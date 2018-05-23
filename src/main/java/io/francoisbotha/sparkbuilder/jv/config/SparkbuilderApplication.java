@@ -1,4 +1,4 @@
-package io.francoisbotha.sparkbuilder;
+package io.francoisbotha.sparkbuilder.jv.config;
 
 import io.francoisbotha.sparkbuilder.sc.GreetingInScala;
 import org.springframework.boot.SpringApplication;
